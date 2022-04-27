@@ -9,6 +9,9 @@
 <hr> -->
 
 
+<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'am+learning+fullstack+development">
+
+
 - 👋 Hi, I’m Lucas Feliciano
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
