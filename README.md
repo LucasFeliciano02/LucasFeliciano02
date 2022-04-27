@@ -1,6 +1,13 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
+<!-- <h4 align="center"> 
+---
+	🚧  Projeto perfil do Github 🚀 Em construção...  🚧
+</h4> 
 
+
+
+<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
+<hr> -->
 
 - 👋 Hi, I’m Lucas Feliciano
 - 👀 I’m interested in ...
