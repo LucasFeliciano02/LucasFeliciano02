@@ -1,3 +1,7 @@
+
+<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
+
+
 - 👋 Hi, I’m Lucas Feliciano
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
