@@ -9,7 +9,7 @@
 <hr> -->
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+learning+fullstack+development">
+<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'am+learning+fullstack+development">
 
 
 - 👋 Hi, I’m Lucas Feliciano
