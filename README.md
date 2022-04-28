@@ -7,6 +7,9 @@
 
 <hr> -->
 
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=69C9F7&background=FFFFFF01&center=true&vCenter=true&width=700&height=100&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<hr> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'm+learning+fullstack+development">
 
