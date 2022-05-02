@@ -44,5 +44,5 @@ https://github.com/anuraghazra/github-readme-stats  =  Caracteristicas da imagem
 </div>
 	
 	
-	
+##	
 	
