@@ -40,7 +40,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk  =  Badges
 	
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img align="center" alt="Lucas-Python" height="27" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img align="center" alt="Lucas-Python" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Lucas-Python" height="48" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 	
