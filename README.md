@@ -34,6 +34,11 @@ https://picrew.me/image_maker/338224  =  pic
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&background=FFFFFF01&center=true&vCenter=true&width=700&height=100&lines=Hello+i'm+Lucas+and+i´m+learning+fullstack+development)](https://git.io/typing-svg)
 
 
+<div align="center">
+  <a href="https://github.com/LucasFeliciano02">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasFeliciano02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFeliciano02&layout=compact&langs_count=7&theme=radical"/>
+
 
 </div>
 	
