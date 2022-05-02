@@ -17,6 +17,8 @@ https://emojipedia.org/search/?q=bag  =  Site de emojis
 https://github.com/anuraghazra/github-readme-stats  =  Caracteristicas da imagem do github stats
 
 
+https://devicon.dev/  =  Icons das linguagens de programação
+
 <hr> -->
 
 
