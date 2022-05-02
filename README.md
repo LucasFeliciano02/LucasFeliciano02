@@ -12,7 +12,7 @@ https://emojipedia.org/search/?q=bag  =  Site de emojis
 
 <hr> -->
 
-## Olá, sou Lucas, criadora de conteúdo de programação e tecnologia!
+## Olá, sou Lucas, 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=69C9F7&background=FFFFFF01&center=true&vCenter=true&width=700&height=100&lines=I'm+learning+fullstack+development)](https://git.io/typing-svg)
