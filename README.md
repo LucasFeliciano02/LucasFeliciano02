@@ -25,6 +25,9 @@ https://devicon.dev/  =  Icons das linguagens de programação
 
 https://dev.to/envoy_/150-badges-for-github-pnk  =  Badges
 
+
+https://picrew.me/image_maker/338224  =  pic
+
 <hr> -->
 
 
