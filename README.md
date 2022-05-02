@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'm+learning+fullstack+development">
 
 
-https://emojipedia.org/search/?q=bag  =  Site para emojis 
+https://emojipedia.org/search/?q=bag  =  Site de emojis 
 
 <hr> -->
 
