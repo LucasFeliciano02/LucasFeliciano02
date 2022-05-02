@@ -30,6 +30,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk  =  Badges
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1D9BB8&background=FFFFFF01&center=true&vCenter=true&width=700&height=100&lines=Hello+i'm+Lucas+and+i´m+learning+fullstack+development)](https://git.io/typing-svg)
 
+#
 
 <div align="center">
   <a href="https://github.com/LucasFeliciano02">
