@@ -63,9 +63,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk  =  Badges
 <hr> -->
   <a href = "mailto:lucas.feliciano02@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 	</a>
+	
   <a href="https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+	
   ![Snake animation](https://github.com/LucasFeliciano02/LucasFeliciano02/blob/output/github-contribution-grid-snake.svg)
 
+	
 </div>
 	
