@@ -32,7 +32,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk  =  Badges
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/">
+  <a href="https://github.com/LucasFeliciano02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFeliciano02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFeliciano02&layout=compact&langs_count=7&theme=radical"/>
 </div>	
