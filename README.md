@@ -19,6 +19,12 @@ https://github.com/anuraghazra/github-readme-stats  =  Caracteristicas da imagem
 
 https://devicon.dev/  =  Icons das linguagens de programação
 
+
+https://dev.to/envoy_/150-badges-for-github-pnk  =  Badges
+
+
+
+
 <hr> -->
 
 
