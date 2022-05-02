@@ -57,7 +57,7 @@ https://picrew.me/image_maker/338224  =  pic
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 --->
 	
-</div><br>
+</div>
 	
 	
 #
