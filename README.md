@@ -41,7 +41,7 @@ https://picrew.me/image_maker/338224  =  pic
 	  
 
 </div>
-
+ <br>
 	
 	
 <div align="center" valign="top"><br>
