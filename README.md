@@ -74,3 +74,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk  =  Badges
 		
 <div align="center">
 	
+
+![Snake animation](https://github.com/LucasFeliciano02/LucasFeliciano02/blob/output/github-contribution-grid-snake.svg)
+	
