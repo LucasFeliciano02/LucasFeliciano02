@@ -38,7 +38,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk  =  Badges
 </div>	
 	
 	
-<div style="display: inline_block"><br>
+<div align="center" valign="top"><br>
   <img align="center" alt="python-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="django-Python" height="32" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img align="center" alt="mysql-Python" height="62" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
@@ -54,7 +54,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk  =  Badges
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 --->
 	
-</div>
+</div><br>
 	
 	
 ###	
