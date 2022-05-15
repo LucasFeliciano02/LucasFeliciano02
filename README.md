@@ -31,7 +31,7 @@ https://picrew.me/image_maker/338224  =  pic
 <hr> -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&background=FFFFFF01&center=true&vCenter=true&width=700&height=100&lines=Hello+there!+i'm+Lucas+and+i´m+learning+fullstack+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&background=FFFFFF01&center=true&vCenter=true&width=700&height=100&lines=Hello+i'm+Lucas+and+i´m+learning+fullstack+development)](https://git.io/typing-svg)
 
 
 <div align="center">
