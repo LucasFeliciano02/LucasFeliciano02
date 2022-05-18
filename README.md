@@ -37,8 +37,7 @@ https://picrew.me/image_maker/338224  =  pic
 <div align="center">
   <a href="https://github.com/LucasFeliciano02">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasFeliciano02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFeliciano02&layout=compact&langs_count=7&theme=radical"/>
-	  
+  
 
 </div>
 	
