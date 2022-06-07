@@ -44,11 +44,14 @@ https://picrew.me/image_maker/338224  =  pic
 	
 	
 <div align="center" valign="top"><br>
-  <img align="center" alt="python-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="python-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="django-Python" height="32" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img align="center" alt="mysql-Python" height="62" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="sqlite-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://github.com/LucasFeliciano02/back_end.py/blob/main/lucas2.png"> 	
+  <img align="center" alt="sqlite-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://github.com/LucasFeliciano02/back_end.py/blob/main/lucas2.png"/> 
+  <img align="center" alt="flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>	
+            
+          
 <!---	
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
