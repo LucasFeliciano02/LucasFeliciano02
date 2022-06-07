@@ -85,5 +85,3 @@ https://picrew.me/image_maker/338224  =  pic
 
 ![Snake animation](https://github.com/LucasFeliciano02/LucasFeliciano02/blob/output/github-contribution-grid-snake.svg)
 	
-
-Made with :heart: by [LucasFeliciano02](https://github.com/LucasFeliciano02) 👋
