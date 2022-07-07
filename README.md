@@ -32,7 +32,7 @@ https://picrew.me/image_maker/338224  =  pic
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&background=FFFFFF01&center=true&vCenter=true&width=700&height=100&lines=I'm+learning+fullstack+development+and+sharing+knowledge)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&background=FFFFFF01&center=true&vCenter=true&width=700&height=100&lines=I'm+learning+Back-end+development+and+sharing+knowledge)](https://git.io/typing-svg)
 
 
 <div align="center">
